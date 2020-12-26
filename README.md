@@ -1,4 +1,4 @@
-![DICO ORDONNE](https://images-na.ssl-images-amazon.com/images/I/71NPJ5VrgUL.jpg=319)
+<img src="https://images-na.ssl-images-amazon.com/images/I/71NPJ5VrgUL.jpg" alt="DICO ORDONNE" width="319"/>
 
 Dictionnaire Ordonné - PYTHON
 ============
