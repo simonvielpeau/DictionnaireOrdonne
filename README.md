@@ -1,10 +1,10 @@
-![DICO ORDONNE](https://images-na.ssl-images-amazon.com/images/I/71NPJ5VrgUL.jpg)
+![DICO ORDONNE](https://images-na.ssl-images-amazon.com/images/I/71NPJ5VrgUL.jpg=319)
 
 Dictionnaire Ordonné - PYTHON
 ============
 Pour s'entraîner sur les objets en Python, création de mon propre type de dictionnaire, qui se dinstigue de ceux d'origine par le fait qu'on puisse le tirer.
 
-============
+-------------
 Énoncé :
 L'idée, assez simplement, est de stocker nos données dans deux listes :
 
